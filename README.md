@@ -5,7 +5,7 @@ For a full list of my publications, check either
   - my personal website: https://jmlemercier.github.io 
   - my Google Scholar profile: https://scholar.google.com/citations?user=dJFuXCQAAAAJ&hl=fr&oi=ao
 
-📫 You can reach me by email at jeanmarie.lemercier@uni-hamburg.de
+📫 You can reach me by email at jmlemercier at ieee dot org
 
 <!---
 jmlemercier/jmlemercier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
